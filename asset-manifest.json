@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agro-mart/static/css/main.4de1a6d7.css",
+    "main.js": "/agro-mart/static/js/main.17b89422.js",
+    "static/js/453.41d0be21.chunk.js": "/agro-mart/static/js/453.41d0be21.chunk.js",
+    "index.html": "/agro-mart/index.html",
+    "main.4de1a6d7.css.map": "/agro-mart/static/css/main.4de1a6d7.css.map",
+    "main.17b89422.js.map": "/agro-mart/static/js/main.17b89422.js.map",
+    "453.41d0be21.chunk.js.map": "/agro-mart/static/js/453.41d0be21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de1a6d7.css",
+    "static/js/main.17b89422.js"
+  ]
+}
